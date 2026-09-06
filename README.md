@@ -6,7 +6,7 @@ This project was developed as part of the **AnalystLab Africa Experience Lab** u
 
 The project applies data science and machine learning techniques to predict patient appointment attendance using historical appointment data. The objective is to identify appointments at risk of resulting in a no-show and support interventions such as reminders and follow-up.
 
----
+---  
 
 ## Problem Statement
 
